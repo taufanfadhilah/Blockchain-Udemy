@@ -1,0 +1,11 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain project which learned from Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Taufan Fadhilah Iskandar",
+  "license": "ISC"
+}
